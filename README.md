@@ -12,10 +12,6 @@
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<table align="center" border="0">
-  <tr>
-    <td width="60%" valign="top">
-
 ### 👋 สวัสดีครับ — I'm KTK
 
 ```typescript
@@ -34,15 +30,6 @@ const ktk = {
 - 🤖 LINE Messaging API / LIFF bots that real teams use every day
 - 🔐 Caring about clean architecture, security & boring-reliable deploys
 - 🌱 Always poking at AI tooling, DevOps & new frameworks
-
-  </td>
-  <td width="40%" align="center" valign="middle">
-    <img src="https://github-readme-stats.vercel.app/api?username=SAMCO-KTK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&rank_icon=github&hide_title=true" alt="stats" width="100%" />
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=SAMCO-KTK&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
-  </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -81,11 +68,6 @@ const ktk = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMCO-KTK&theme=tokyonight" width="95%" alt="profile summary" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/SAMCO-KTK" width="95%" alt="contribution heatmap" />
-</div>
 
 <br/>
 
@@ -96,6 +78,10 @@ const ktk = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMCO-KTK/SAMCO-KTK/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/SAMCO-KTK/SAMCO-KTK/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAMCO-KTK&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
